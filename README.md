@@ -26,15 +26,16 @@ following simple rules.
   [CC0-1.0](https://github.com/Gubbledenut/ABC_TuneBooks/blob/main/LICENSE.txt)
 - [Classical Music Symposium](http://members.tripod.com/MrMaestro/main.html)
   licenced under the
-  ([Public Domain](http://members.tripod.com/MrMaestro/midi.html))
+  [Public Domain](http://members.tripod.com/MrMaestro/midi.html)
 - [Classical Piano Midi Page](http://www.piano-midi.de/) is licensed under the
   [CC-BY-SA-3.0-DE](http://creativecommons.org/licenses/by-sa/3.0/de/deed.en)
 - [lilypond-songs](https://github.com/bbloomf/lilypond-songs) is licensed under
-  the Public Domain.
+  the
+  [Public Domain](https://github.com/bbloomf/lilypond-songs/blob/master/LICENSE.md)
 - [music-abc](https://github.com/econrad003/music-abc) is licensed under the
   [MIT](https://github.com/econrad003/music-abc/blob/master/LICENSE)
 - [Mutopia Project](https://www.mutopiaproject.org/) is licensed under the
-  [Public Domain or Creative Commons](https://www.mutopiaproject.org/legal.html).
+  [Public Domain or Creative Commons](https://www.mutopiaproject.org/legal.html)
 - [tunebook-abc](https://github.com/jw35/tunebook-abc) is licensed under the
   [CC-BY-SA-4.0](https://github.com/jw35/tunebook-abc/blob/master/LICENCE.txt)
 
