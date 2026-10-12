@@ -38,6 +38,11 @@ following simple rules.
   [Public Domain or Creative Commons](https://www.mutopiaproject.org/legal.html)
 - [tunebook-abc](https://github.com/jw35/tunebook-abc) is licensed under the
   [CC-BY-SA-4.0](https://github.com/jw35/tunebook-abc/blob/master/LICENCE.txt)
+- [OpenScore Lieder](https://github.com/openscore/Lieder) licensed under the
+  [CC0-1.0](https://github.com/OpenScore/Lieder/blob/main/LICENSE.txt)
+- [OpenScore String Quartets](https://github.com/openscore/StringQuartets)
+  licensed under the
+  [CC0-1.0](https://github.com/OpenScore/StringQuartets/blob/main/LICENSE.txt)
 
 ## License
 
