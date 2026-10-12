@@ -1,0 +1,77 @@
+[
+	{
+		"id": "ABC_TuneBooks",
+		"name": "ABC_TuneBooks",
+		"status": "OPEN",
+		"composer": "Traditional",
+		"maintainer": "David Jacobs",
+		"web": "https://github.com/Gubbledenut/ABC_TuneBooks",
+		"license": "CC0-1.0"
+	},
+	{
+		"id": "ClassicalMusicSymposium",
+		"name": "Classical Music Symposium",
+		"status": "CLOSED",
+		"maintainer": "Mr. Maestro",
+		"web": "http://members.tripod.com/MrMaestro/main.html",
+		"license": "Public Domain"
+	},
+	{
+		"id": "piano-midi.de",
+		"country": "DE",
+		"name": "Classical Piano Midi Page",
+		"status": "OPEN",
+		"maintainer": "Bernd Krueger",
+		"web": "http://www.piano-midi.de/",
+		"license": "CC-BY-SA-3.0-DE"
+	},
+	{
+		"id": "lilypond-songs",
+		"name": "lilypond-songs",
+		"status": "OPEN",
+		"maintainer": "Benjamin Bloomfield",
+		"web": "https://github.com/bbloomf/lilypond-songs",
+		"license": "Public Domain"
+	},
+	{
+		"id": "music-abc",
+		"name": "music-abc",
+		"status": "OPEN",
+		"maintainer": "Eric Conrad",
+		"web": "https://github.com/econrad003/music-abc",
+		"license": "MIT"
+	},
+	{
+		"id": "mutopia",
+		"name": "Mutopia Project",
+		"status": "OPEN",
+		"web": "https://www.mutopiaproject.org/",
+		"license": "https://www.mutopiaproject.org/"
+	},
+	{
+		"id": "tunebook-abc",
+		"name": "tunebook-abc",
+		"status": "OPEN",
+		"composer": "Traditional",
+		"maintainer": "Jon Warbrick",
+		"email": "jon.warbrick@googlemail.com",
+		"web": "https://github.com/jw35/tunebook-abc",
+		"license": "CC-BY-SA-4.0"
+	},
+	{
+		"id": "Lieder",
+		"name": "OpenScore Lieder",
+		"status": "OPEN",
+		"maintainer": "OpenScore",
+		"web": "https://github.com/openscore/Lieder",
+		"license": "CC0-1.0"
+	},
+	{
+		"id": "StringQuartets",
+		"name": "OpenScore String Quartets",
+		"status": "OPEN",
+		"maintainer": "OpenScore",
+		"web": "https://github.com/openscore/StringQuartets",
+		"license": "CC0-1.0"
+	}
+]
