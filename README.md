@@ -1,4 +1,4 @@
-# classical-db
+# classical-midi-db
 
 Classical MIDI Database for [Free MIDI](https://marmooo.github.io/free-midi/).
 
