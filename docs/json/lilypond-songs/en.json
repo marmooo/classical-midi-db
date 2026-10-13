@@ -505,6 +505,7 @@
 	{
 		"file": "lilypond-songs/0051.mid",
 		"title": "Bride Bells",
+		"composer": "Joseph Leopold Röckel",
 		"born": "1838",
 		"died": "1923",
 		"time": "1:43",
@@ -1840,6 +1841,7 @@
 	{
 		"file": "lilypond-songs/0185.mid",
 		"title": "The Goslings (Humorous Part-Song for Men’s Voices)",
+		"composer": "John Frederick Bridge",
 		"born": "1844",
 		"died": "1924",
 		"time": "2:06",
@@ -2012,6 +2014,7 @@
 	{
 		"file": "lilypond-songs/0203.mid",
 		"title": "The Sidewalks of New York",
+		"composer": "Charles B. Lawlor",
 		"born": "1852",
 		"died": "1925",
 		"time": "1:03",
@@ -2104,6 +2107,7 @@
 	{
 		"file": "lilypond-songs/0212.mid",
 		"title": "To Phœbe",
+		"composer": "John Frederick Bridge",
 		"born": "1844",
 		"died": "1924",
 		"time": "0:54",

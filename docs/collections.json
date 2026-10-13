@@ -73,5 +73,13 @@
 		"maintainer": "OpenScore",
 		"web": "https://github.com/openscore/StringQuartets",
 		"license": "CC0-1.0"
-	}
+	},
+  {
+    "id": "OpenScoreOrchestra",
+    "name": "OpenScore Orchestra",
+    "status": "OPEN",
+    "maintainer": "Mark Gotham",
+    "web": "https://github.com/markGotham/hauptstimme",
+    "license": "CC0-1.0"
+  }
 ]
