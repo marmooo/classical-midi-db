@@ -43,6 +43,8 @@ following simple rules.
 - [OpenScore String Quartets](https://github.com/openscore/StringQuartets)
   licensed under the
   [CC0-1.0](https://github.com/OpenScore/StringQuartets/blob/main/LICENSE.txt)
+- [OpenScore Orchestra](https://github.com/markGotham/hauptstimme) licensed
+  under the [CC0-1.0](https://github.com/markGotham/hauptstimme)
 
 ## License
 
