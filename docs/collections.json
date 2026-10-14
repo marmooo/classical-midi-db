@@ -81,5 +81,13 @@
     "maintainer": "Mark Gotham",
     "web": "https://github.com/markGotham/hauptstimme",
     "license": "CC0-1.0"
-  }
+  },
+	{
+		"id": "humdrum-polish-scores",
+		"name": "Polish Heritage in Open Access",
+		"status": "OPEN",
+		"maintainer": "Marcin Konik (Chopin Institute / NIFC)",
+		"web": "https://github.com/pl-wnifc/humdrum-polish-scores",
+		"license": "CC-BY-4.0"
+	}
 ]

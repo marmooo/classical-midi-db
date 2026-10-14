@@ -45,6 +45,9 @@ following simple rules.
   [CC0-1.0](https://github.com/OpenScore/StringQuartets/blob/main/LICENSE.txt)
 - [OpenScore Orchestra](https://github.com/markGotham/hauptstimme) licensed
   under the [CC0-1.0](https://github.com/markGotham/hauptstimme)
+- [Polish Heritage in Open Access](https://github.com/pl-wnifc/humdrum-polish-scores)
+  licensed under the
+  [CC-BY-4.0](https://github.com/pl-wnifc/humdrum-polish-scores/blob/main/LICENSE.txt)
 
 ## License
 
