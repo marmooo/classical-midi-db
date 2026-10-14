@@ -48,6 +48,9 @@ following simple rules.
 - [Polish Heritage in Open Access](https://github.com/pl-wnifc/humdrum-polish-scores)
   licensed under the
   [CC-BY-4.0](https://github.com/pl-wnifc/humdrum-polish-scores/blob/main/LICENSE.txt)
+- [humdrum-chopin-first-editions](https://github.com/pl-wnifc/humdrum-chopin-first-editions)
+  licensed under the
+  [CC-BY-4.0](https://github.com/pl-wnifc/humdrum-chopin-first-editions/blob/main/LICENSE.txt)
 
 ## License
 
