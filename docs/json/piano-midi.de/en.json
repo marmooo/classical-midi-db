@@ -1,6 +1,7 @@
 [
 	{
 		"title": "España, Opus 165",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Prélude",
@@ -13,6 +14,7 @@
 	},
 	{
 		"title": "España, Opus 165",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Tango",
@@ -25,6 +27,7 @@
 	},
 	{
 		"title": "España, Opus 165",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Malagueña",
@@ -37,6 +40,7 @@
 	},
 	{
 		"title": "España, Opus 165",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Serenata",
@@ -49,6 +53,7 @@
 	},
 	{
 		"title": "España, Opus 165",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Capricho Catalan",
@@ -61,6 +66,7 @@
 	},
 	{
 		"title": "España, Opus 165",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Zortzico",
@@ -73,6 +79,7 @@
 	},
 	{
 		"title": "Suite española",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Granada",
@@ -85,6 +92,7 @@
 	},
 	{
 		"title": "Suite española",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Cataluña (Curranda)",
@@ -97,6 +105,7 @@
 	},
 	{
 		"title": "Suite española",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Sevilla",
@@ -109,6 +118,7 @@
 	},
 	{
 		"title": "Suite española",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Cádiz (Saeta)",
@@ -121,6 +131,7 @@
 	},
 	{
 		"title": "Suite española",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Asturias (Leyenda)",
@@ -133,6 +144,7 @@
 	},
 	{
 		"title": "Suite española",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Aragon (Fantasia)",
@@ -145,6 +157,7 @@
 	},
 	{
 		"title": "Suite española",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Castilla (Seguidillas)",
@@ -157,6 +170,7 @@
 	},
 	{
 		"title": "Suite española",
+		"composer": "Isaac Albéniz",
 		"born": "1860",
 		"died": "1909",
 		"opus": "Cuba (Notturno)",
@@ -208,6 +222,7 @@
 	},
 	{
 		"title": "Islamej (Oriental fantasia)",
+		"composer": "Mily Balakirev",
 		"born": "1837",
 		"died": "1910",
 		"opus": "Islamej",
@@ -597,6 +612,7 @@
 	},
 	{
 		"title": "Petite Suite",
+		"composer": "Alexander Borodin",
 		"born": "1833",
 		"died": "1887",
 		"opus": "In the monastery",
@@ -609,6 +625,7 @@
 	},
 	{
 		"title": "Petite Suite",
+		"composer": "Alexander Borodin",
 		"born": "1833",
 		"died": "1887",
 		"opus": "Intermezzo",
@@ -621,6 +638,7 @@
 	},
 	{
 		"title": "Petite Suite",
+		"composer": "Alexander Borodin",
 		"born": "1833",
 		"died": "1887",
 		"opus": "Mazurka",
@@ -633,6 +651,7 @@
 	},
 	{
 		"title": "Petite Suite",
+		"composer": "Alexander Borodin",
 		"born": "1833",
 		"died": "1887",
 		"opus": "Mazurka",
@@ -645,6 +664,7 @@
 	},
 	{
 		"title": "Petite Suite",
+		"composer": "Alexander Borodin",
 		"born": "1833",
 		"died": "1887",
 		"opus": "Réverie",
@@ -657,6 +677,7 @@
 	},
 	{
 		"title": "Petite Suite",
+		"composer": "Alexander Borodin",
 		"born": "1833",
 		"died": "1887",
 		"opus": "Serenade",
@@ -669,6 +690,7 @@
 	},
 	{
 		"title": "Petite Suite",
+		"composer": "Alexander Borodin",
 		"born": "1833",
 		"died": "1887",
 		"opus": "Nocturne",
@@ -681,6 +703,7 @@
 	},
 	{
 		"title": "Sonata C major, Opus 1",
+		"composer": "Johannes Brahms",
 		"born": "1833",
 		"died": "1897",
 		"opus": "1. Movement",
@@ -693,6 +716,7 @@
 	},
 	{
 		"title": "Sonata C major, Opus 1",
+		"composer": "Johannes Brahms",
 		"born": "1833",
 		"died": "1897",
 		"opus": "2. Movement",
@@ -705,6 +729,7 @@
 	},
 	{
 		"title": "Sonata C major, Opus 1",
+		"composer": "Johannes Brahms",
 		"born": "1833",
 		"died": "1897",
 		"opus": "3. Movement",
@@ -717,6 +742,7 @@
 	},
 	{
 		"title": "Sonata C major, Opus 1",
+		"composer": "Johannes Brahms",
 		"born": "1833",
 		"died": "1897",
 		"opus": "4. Movement",
@@ -729,6 +755,7 @@
 	},
 	{
 		"title": "7 Fantasia, Opus 116",
+		"composer": "Johannes Brahms",
 		"born": "1833",
 		"died": "1897",
 		"opus": "No. 2 - Intermezzo",
@@ -741,6 +768,7 @@
 	},
 	{
 		"title": "7 Fantasia, Opus 116",
+		"composer": "Johannes Brahms",
 		"born": "1833",
 		"died": "1897",
 		"opus": "No. 5 - Intermezzo",
@@ -753,6 +781,7 @@
 	},
 	{
 		"title": "7 Fantasia, Opus 116",
+		"composer": "Johannes Brahms",
 		"born": "1833",
 		"died": "1897",
 		"opus": "No. 6 - Intermezzo",
@@ -765,6 +794,7 @@
 	},
 	{
 		"title": "3 Intermezzi, Opus 117",
+		"composer": "Johannes Brahms",
 		"born": "1833",
 		"died": "1897",
 		"opus": "No. 1",
@@ -777,6 +807,7 @@
 	},
 	{
 		"title": "3 Intermezzi, Opus 117",
+		"composer": "Johannes Brahms",
 		"born": "1833",
 		"died": "1897",
 		"opus": "No. 2",
@@ -789,6 +820,7 @@
 	},
 	{
 		"title": "4 Piano pieces, Opus 119",
+		"composer": "Johannes Brahms",
 		"born": "1833",
 		"died": "1897",
 		"opus": "Rhapsodie",
@@ -801,6 +833,7 @@
 	},
 	{
 		"title": "Etudes, Opus 109",
+		"composer": "Friedrich Burgmüller",
 		"born": "1806",
 		"died": "1874",
 		"opus": "The pearls",
@@ -812,6 +845,7 @@
 	},
 	{
 		"title": "Etudes, Opus 109",
+		"composer": "Friedrich Burgmüller",
 		"born": "1806",
 		"died": "1874",
 		"opus": "The Fountain",
@@ -823,6 +857,7 @@
 	},
 	{
 		"title": "Etudes, Opus 109",
+		"composer": "Friedrich Burgmüller",
 		"born": "1806",
 		"died": "1874",
 		"opus": "Agitato",
@@ -834,6 +869,7 @@
 	},
 	{
 		"title": "Etudes, Opus 109",
+		"composer": "Friedrich Burgmüller",
 		"born": "1806",
 		"died": "1874",
 		"opus": "Velocity",
@@ -845,6 +881,7 @@
 	},
 	{
 		"title": "Etudes, Opus 109",
+		"composer": "Friedrich Burgmüller",
 		"born": "1806",
 		"died": "1874",
 		"opus": "Awaking in the woods",
@@ -856,6 +893,7 @@
 	},
 	{
 		"title": "Etudes, Opus 109",
+		"composer": "Friedrich Burgmüller",
 		"born": "1806",
 		"died": "1874",
 		"opus": "Thunderstorm",
@@ -867,6 +905,7 @@
 	},
 	{
 		"title": "Etudes, Opus 109",
+		"composer": "Friedrich Burgmüller",
 		"born": "1806",
 		"died": "1874",
 		"opus": "The sylphs",
@@ -878,6 +917,7 @@
 	},
 	{
 		"title": "Etudes, Opus 109",
+		"composer": "Friedrich Burgmüller",
 		"born": "1806",
 		"died": "1874",
 		"opus": "Separation",
@@ -889,6 +929,7 @@
 	},
 	{
 		"title": "Etudes, Opus 109",
+		"composer": "Friedrich Burgmüller",
 		"born": "1806",
 		"died": "1874",
 		"opus": "Spinning Song",
@@ -1524,6 +1565,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 1, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "1. movement",
@@ -1536,6 +1578,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 1, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "2. movement",
@@ -1548,6 +1591,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 1, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "3. movement",
@@ -1560,6 +1604,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 2, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "1. movement",
@@ -1572,6 +1617,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 2, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "2. movement",
@@ -1584,6 +1630,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 2, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "3. movement",
@@ -1596,6 +1643,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 3, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "1. movement",
@@ -1608,6 +1656,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 3, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "2. movement",
@@ -1620,6 +1669,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 3, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "3. movement",
@@ -1632,6 +1682,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 4, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "1. movement",
@@ -1644,6 +1695,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 4, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "2. movement",
@@ -1656,6 +1708,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 4, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "3. movement",
@@ -1668,6 +1721,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 5, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "1. movement",
@@ -1680,6 +1734,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 5, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "2. movement",
@@ -1692,6 +1747,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 5, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "3. movement",
@@ -1704,6 +1760,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 6, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "1. movement",
@@ -1716,6 +1773,7 @@
 	},
 	{
 		"title": "Sonatina Opus 36 No. 6, Opus 36",
+		"composer": "Muzio Clementi",
 		"born": "1752",
 		"died": "1832",
 		"opus": "2. movement",
@@ -1858,6 +1916,7 @@
 	},
 	{
 		"title": "Danzas españolas",
+		"composer": "Enrique Granados",
 		"born": "1867",
 		"died": "1916",
 		"opus": "No. 2 - Oriental",
@@ -1870,6 +1929,7 @@
 	},
 	{
 		"title": "Danzas españolas",
+		"composer": "Enrique Granados",
 		"born": "1867",
 		"died": "1916",
 		"opus": "No. 3 - Zarabanda",
@@ -1882,6 +1942,7 @@
 	},
 	{
 		"title": "Danzas españolas",
+		"composer": "Enrique Granados",
 		"born": "1867",
 		"died": "1916",
 		"opus": "No. 4 - Villanesca",
@@ -1894,6 +1955,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book I, Opus 12",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 2 - Valse",
@@ -1906,6 +1968,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book I, Opus 12",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 3 - Watchman's song",
@@ -1918,6 +1981,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book I, Opus 12",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 4 - Fairy Dance",
@@ -1930,6 +1994,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book II, Opus 38",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 1 - Berceuse",
@@ -1942,6 +2007,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book II, Opus 38",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 4 - Halling",
@@ -1954,6 +2020,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book III, Opus 43",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 1 - Butterfly",
@@ -1966,6 +2033,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book III, Opus 43",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 2 - Solitary Traveller",
@@ -1978,6 +2046,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book III, Opus 43",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 4 - Little Bird",
@@ -1990,6 +2059,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book III, Opus 43",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 6 - To Spring",
@@ -2002,6 +2072,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book IV, Opus 47",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 2 - Album Leaf",
@@ -2013,6 +2084,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book V, Opus 54",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 2 - Norwegian March",
@@ -2025,6 +2097,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book V, Opus 54",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 3 - March of the Dwarfs",
@@ -2037,6 +2110,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book VII, Opus 62",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 4 - Brooklet",
@@ -2049,6 +2123,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book VIII, Opus 65",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 6 - Wedding-day at Troldhaugen",
@@ -2060,6 +2135,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book X, Opus 71",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 1 - Once upon a Time",
@@ -2072,6 +2148,7 @@
 	},
 	{
 		"title": "Lyric Pieces Book X, Opus 71",
+		"composer": "Edvard Hagerup Grieg",
 		"born": "1843",
 		"died": "1907",
 		"opus": "No. 3 - Puck",
@@ -2565,6 +2642,7 @@
 	},
 	{
 		"title": "Songs without Words Book 1, Opus 19",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 1",
@@ -2577,6 +2655,7 @@
 	},
 	{
 		"title": "Songs without Words Book 1, Opus 19",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 2",
@@ -2589,6 +2668,7 @@
 	},
 	{
 		"title": "Songs without Words Book 1, Opus 19",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 3",
@@ -2601,6 +2681,7 @@
 	},
 	{
 		"title": "Songs without Words Book 1, Opus 19",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 4",
@@ -2613,6 +2694,7 @@
 	},
 	{
 		"title": "Songs without Words Book 1, Opus 19",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 5",
@@ -2625,6 +2707,7 @@
 	},
 	{
 		"title": "Songs without Words Book 1, Opus 19",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 6 - Venetian Gondola Song",
@@ -2637,6 +2720,7 @@
 	},
 	{
 		"title": "Songs without Words Book 2, Opus 30",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 1",
@@ -2649,6 +2733,7 @@
 	},
 	{
 		"title": "Songs without Words Book 2, Opus 30",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 2",
@@ -2661,6 +2746,7 @@
 	},
 	{
 		"title": "Songs without Words Book 2, Opus 30",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 3",
@@ -2673,6 +2759,7 @@
 	},
 	{
 		"title": "Songs without Words Book 2, Opus 30",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 4",
@@ -2685,6 +2772,7 @@
 	},
 	{
 		"title": "Songs without Words Book 2, Opus 30",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 5",
@@ -2697,6 +2785,7 @@
 	},
 	{
 		"title": "Songs without Words Book 4, Opus 53",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 5 - Folk song",
@@ -2709,6 +2798,7 @@
 	},
 	{
 		"title": "Songs without Words Book 5, Opus 62",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 3 - Funeral march",
@@ -2721,6 +2811,7 @@
 	},
 	{
 		"title": "Songs without Words Book 5, Opus 62",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 4 - Morning Song",
@@ -2733,6 +2824,7 @@
 	},
 	{
 		"title": "Songs without Words Book 5, Opus 62",
+		"composer": "Felix Mendelssohn",
 		"born": "1809",
 		"died": "1847",
 		"opus": "No. 5 - Venetian Gondola Song",
@@ -2745,6 +2837,7 @@
 	},
 	{
 		"title": "Étincelles, Opus 36",
+		"composer": "Moritz Moszkowski",
 		"born": "1854",
 		"died": "1925",
 		"opus": "No. 6",
@@ -3029,6 +3122,7 @@
 	},
 	{
 		"title": "Pictures at an Exhibition",
+		"composer": "Modest Mussorgsky",
 		"born": "1839",
 		"died": "1881",
 		"opus": "Promenade - Gnomus",
@@ -3041,6 +3135,7 @@
 	},
 	{
 		"title": "Pictures at an Exhibition",
+		"composer": "Modest Mussorgsky",
 		"born": "1839",
 		"died": "1881",
 		"opus": "Promenade - Il vecchio Castello",
@@ -3053,6 +3148,7 @@
 	},
 	{
 		"title": "Pictures at an Exhibition",
+		"composer": "Modest Mussorgsky",
 		"born": "1839",
 		"died": "1881",
 		"opus": "Promenade - The Tuileries",
@@ -3065,6 +3161,7 @@
 	},
 	{
 		"title": "Pictures at an Exhibition",
+		"composer": "Modest Mussorgsky",
 		"born": "1839",
 		"died": "1881",
 		"opus": "Bydlo",
@@ -3077,6 +3174,7 @@
 	},
 	{
 		"title": "Pictures at an Exhibition",
+		"composer": "Modest Mussorgsky",
 		"born": "1839",
 		"died": "1881",
 		"opus": "Promenade - Ballet of the Unhatched Chickens",
@@ -3089,6 +3187,7 @@
 	},
 	{
 		"title": "Pictures at an Exhibition",
+		"composer": "Modest Mussorgsky",
 		"born": "1839",
 		"died": "1881",
 		"opus": "Samuel Goldenberg and Schmuyle",
@@ -3101,6 +3200,7 @@
 	},
 	{
 		"title": "Pictures at an Exhibition",
+		"composer": "Modest Mussorgsky",
 		"born": "1839",
 		"died": "1881",
 		"opus": "Promenade - The Market Place of Limoges - Catacombae - Con mortuis in lingua mortua",
@@ -3113,6 +3213,7 @@
 	},
 	{
 		"title": "Pictures at an Exhibition",
+		"composer": "Modest Mussorgsky",
 		"born": "1839",
 		"died": "1881",
 		"opus": "The Hut on Chicken's Legs (Baba-Yaga) - The Great Gate of Kiev",
@@ -3125,6 +3226,7 @@
 	},
 	{
 		"title": "Piano Sonata in D major, D 850, Opus 53",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "1. Movement",
@@ -3137,6 +3239,7 @@
 	},
 	{
 		"title": "Piano Sonata in D major, D 850, Opus 53",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "2. Movement",
@@ -3149,6 +3252,7 @@
 	},
 	{
 		"title": "Piano Sonata in D major, D 850, Opus 53",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "3. Movement",
@@ -3161,6 +3265,7 @@
 	},
 	{
 		"title": "Piano Sonata in D major, D 850, Opus 53",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "4. Movement",
@@ -3173,6 +3278,7 @@
 	},
 	{
 		"title": "Fantasia C major (Wanderer), D 760, Opus 15",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "1. Movement",
@@ -3185,6 +3291,7 @@
 	},
 	{
 		"title": "Fantasia C major (Wanderer), D 760, Opus 15",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "2. Movement",
@@ -3197,6 +3304,7 @@
 	},
 	{
 		"title": "Fantasia C major (Wanderer), D 760, Opus 15",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "3. Movement",
@@ -3209,6 +3317,7 @@
 	},
 	{
 		"title": "Fantasia C major (Wanderer), D 760, Opus 15",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "4. Movement",
@@ -3221,6 +3330,7 @@
 	},
 	{
 		"title": "6 Moments musicaux, D 780, Opus 94",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 1",
@@ -3233,6 +3343,7 @@
 	},
 	{
 		"title": "6 Moments musicaux, D 780, Opus 94",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 2",
@@ -3245,6 +3356,7 @@
 	},
 	{
 		"title": "6 Moments musicaux, D 780, Opus 94",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 3",
@@ -3257,6 +3369,7 @@
 	},
 	{
 		"title": "6 Moments musicaux, D 780, Opus 94",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 4",
@@ -3269,6 +3382,7 @@
 	},
 	{
 		"title": "6 Moments musicaux, D 780, Opus 94",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 5",
@@ -3281,6 +3395,7 @@
 	},
 	{
 		"title": "6 Moments musicaux, D 780, Opus 94",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 6",
@@ -3293,6 +3408,7 @@
 	},
 	{
 		"title": "Piano Sonata in A minor, D 784, Opus 143",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "1. Movement",
@@ -3305,6 +3421,7 @@
 	},
 	{
 		"title": "Piano Sonata in A minor, D 784, Opus 143",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "2. Movement",
@@ -3317,6 +3434,7 @@
 	},
 	{
 		"title": "Piano Sonata in A minor, D 784, Opus 143",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "3. Movement",
@@ -3329,6 +3447,7 @@
 	},
 	{
 		"title": "4 Impromptus, D 899, Opus 90",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 1",
@@ -3341,6 +3460,7 @@
 	},
 	{
 		"title": "4 Impromptus, D 899, Opus 90",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 2",
@@ -3353,6 +3473,7 @@
 	},
 	{
 		"title": "4 Impromptus, D 899, Opus 90",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 3",
@@ -3365,6 +3486,7 @@
 	},
 	{
 		"title": "4 Impromptus, D 899, Opus 90",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 4",
@@ -3377,6 +3499,7 @@
 	},
 	{
 		"title": "4 Impromptus, D 935, Opus posth. 142",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 1",
@@ -3388,6 +3511,7 @@
 	},
 	{
 		"title": "4 Impromptus, D 935, Opus posth. 142",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 2",
@@ -3399,6 +3523,7 @@
 	},
 	{
 		"title": "4 Impromptus, D 935, Opus posth. 142",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 3",
@@ -3410,6 +3535,7 @@
 	},
 	{
 		"title": "4 Impromptus, D 935, Opus posth. 142",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "No. 4",
@@ -3421,6 +3547,7 @@
 	},
 	{
 		"title": "Piano Sonata in Bb major, D 960",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "1. Movement",
@@ -3433,6 +3560,7 @@
 	},
 	{
 		"title": "Piano Sonata in Bb major, D 960",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "2. Movement",
@@ -3445,6 +3573,7 @@
 	},
 	{
 		"title": "Piano Sonata in Bb major, D 960",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "3. Movement",
@@ -3457,6 +3586,7 @@
 	},
 	{
 		"title": "Piano Sonata in Bb major, D 960",
+		"composer": "Franz Schubert",
 		"born": "1797",
 		"died": "1828",
 		"opus": "4. Movement",
@@ -3469,6 +3599,7 @@
 	},
 	{
 		"title": "Abegg Variations, Opus 1",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "Thema, Var.I, Var.II, Var.III, Finale alla Fantasia",
@@ -3481,6 +3612,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "A Tale of Distant Lands",
@@ -3493,6 +3625,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "Curious Story",
@@ -3505,6 +3638,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "Blindman's Buff",
@@ -3517,6 +3651,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "Pleading Child",
@@ -3529,6 +3664,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "Perfect Happiness",
@@ -3541,6 +3677,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "Great Adventure",
@@ -3553,6 +3690,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "Reverie",
@@ -3565,6 +3703,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "By the Fire-side",
@@ -3577,6 +3716,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "On the Rocking Horse",
@@ -3589,6 +3729,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "Almost Too Serious",
@@ -3601,6 +3742,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "Hobgoblin",
@@ -3613,6 +3755,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "In Slumberland",
@@ -3625,6 +3768,7 @@
 	},
 	{
 		"title": "Scenes from Childhood, Opus 15",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "The Poet speaks",
@@ -3637,6 +3781,7 @@
 	},
 	{
 		"title": "Kreisleriana, Opus 16",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "No.1",
@@ -3649,6 +3794,7 @@
 	},
 	{
 		"title": "Kreisleriana, Opus 16",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "No.2",
@@ -3661,6 +3807,7 @@
 	},
 	{
 		"title": "Kreisleriana, Opus 16",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "No.3",
@@ -3673,6 +3820,7 @@
 	},
 	{
 		"title": "Kreisleriana, Opus 16",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "No.4",
@@ -3685,6 +3833,7 @@
 	},
 	{
 		"title": "Kreisleriana, Opus 16",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "No.5",
@@ -3697,6 +3846,7 @@
 	},
 	{
 		"title": "Kreisleriana, Opus 16",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "No.6",
@@ -3709,6 +3859,7 @@
 	},
 	{
 		"title": "Kreisleriana, Opus 16",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "No.7",
@@ -3721,6 +3872,7 @@
 	},
 	{
 		"title": "Kreisleriana, Opus 16",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "No.8",
@@ -3733,6 +3885,7 @@
 	},
 	{
 		"title": "Album for the young, Opus 68",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "The happy Farmer",
@@ -3745,6 +3898,7 @@
 	},
 	{
 		"title": "Album for the young, Opus 68",
+		"composer": "Robert Schumann",
 		"born": "1810",
 		"died": "1856",
 		"opus": "Knecht Ruprecht",
@@ -3922,6 +4076,7 @@
 	},
 	{
 		"title": "Christmas Fantasia",
+		"composer": "Ferdinand Keller",
 		"opus": "Christmas Fantasia",
 		"file": "piano-midi.de/bk_xmas2.mid",
 		"time": "6:40",
@@ -3931,6 +4086,7 @@
 	},
 	{
 		"title": "To Christmas (Fantasia), Opus 172 No. 5",
+		"composer": "Gustav Lange",
 		"born": "1830",
 		"died": "1889",
 		"opus": "To Christmas",
@@ -3942,6 +4098,7 @@
 	},
 	{
 		"title": "Christmas Fantasia, Opus 99",
+		"composer": "Robert Leonard",
 		"born": "1868",
 		"died": "1916",
 		"opus": "Christmas Fantasia",
@@ -3953,6 +4110,7 @@
 	},
 	{
 		"title": "Fantasia of Silent Night, Holy Night, Opus 269, No. 3",
+		"composer": "Heinrich Lichner",
 		"born": "1829",
 		"died": "1898",
 		"opus": "Silent Night, Holy Night",
