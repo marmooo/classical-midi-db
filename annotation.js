@@ -109,7 +109,7 @@ function processMidi(buffer) {
 // const jsonFiles = expandGlobSync("docs/json/**/*.json", { globstar: true });
 const jsonFiles = [
   "src/piano-midi.de/list.json",
-  "src/ClassicalMusicSymposium.json",
+  "src/ClassicalMusicSymposium/list.json",
 ];
 for (const filePath of jsonFiles) {
   const json = Deno.readTextFileSync(filePath);

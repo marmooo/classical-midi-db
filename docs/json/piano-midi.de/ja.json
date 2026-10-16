@@ -169,6 +169,7 @@
 	},
 	{
 		"title": "The Well-Tempered Clavier Part I, BWV 846-869",
+		"composer": "ヨハン・ゼバスティアン・バッハ",
 		"born": "1685",
 		"died": "1750",
 		"opus": "Prelude and Fugue in C major BWV 846",
@@ -181,6 +182,7 @@
 	},
 	{
 		"title": "The Well-Tempered Clavier Part I, BWV 846-869",
+		"composer": "ヨハン・ゼバスティアン・バッハ",
 		"born": "1685",
 		"died": "1750",
 		"opus": "Prelude and Fugue in C minor BWV 847",
@@ -193,6 +195,7 @@
 	},
 	{
 		"title": "The Well-Tempered Clavier Part I, BWV 846-869",
+		"composer": "ヨハン・ゼバスティアン・バッハ",
 		"born": "1685",
 		"died": "1750",
 		"opus": "Prelude and Fugue in D major BWV 850",
@@ -217,6 +220,7 @@
 	},
 	{
 		"title": "Sonata No. 5 C minor, Opus 10/1",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "1. Movement",
@@ -229,6 +233,7 @@
 	},
 	{
 		"title": "Sonata No. 5 C minor, Opus 10/1",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "2. Movement",
@@ -241,6 +246,7 @@
 	},
 	{
 		"title": "Sonata No. 5 C minor, Opus 10/1",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "3. Movement",
@@ -253,6 +259,7 @@
 	},
 	{
 		"title": "Sonata No. 8 C minor (Pathetique), Opus 13",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "1. Movement",
@@ -265,6 +272,7 @@
 	},
 	{
 		"title": "Sonata No. 8 C minor (Pathetique), Opus 13",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "2. Movement",
@@ -277,6 +285,7 @@
 	},
 	{
 		"title": "Sonata No. 8 C minor (Pathetique), Opus 13",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "3. Movement",
@@ -289,6 +298,7 @@
 	},
 	{
 		"title": "Sonata No. 11 Bb major, Opus 22",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "1. Movement",
@@ -301,6 +311,7 @@
 	},
 	{
 		"title": "Sonata No. 11 Bb major, Opus 22",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "2. Movement",
@@ -313,6 +324,7 @@
 	},
 	{
 		"title": "Sonata No. 11 Bb major, Opus 22",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "3. Movement",
@@ -325,6 +337,7 @@
 	},
 	{
 		"title": "Sonata No. 11 Bb major, Opus 22",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "4. Movement",
@@ -337,6 +350,7 @@
 	},
 	{
 		"title": "Sonata No. 14 C# minor (Moonlight), Opus 27/2",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "1. Movement",
@@ -349,6 +363,7 @@
 	},
 	{
 		"title": "Sonata No. 14 C# minor (Moonlight), Opus 27/2",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "2. Movement",
@@ -361,6 +376,7 @@
 	},
 	{
 		"title": "Sonata No. 14 C# minor (Moonlight), Opus 27/2",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "3. Movement",
@@ -373,6 +389,7 @@
 	},
 	{
 		"title": "Sonata No. 21 C major (Waldstein), Opus 53",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "1. Movement",
@@ -385,6 +402,7 @@
 	},
 	{
 		"title": "Sonata No. 21 C major (Waldstein), Opus 53",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "2. Movement",
@@ -397,6 +415,7 @@
 	},
 	{
 		"title": "Sonata No. 21 C major (Waldstein), Opus 53",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "3. Movement",
@@ -409,6 +428,7 @@
 	},
 	{
 		"title": "Sonata No. 23 F minor (Appassionata), Opus 57",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "1. Movement",
@@ -421,6 +441,7 @@
 	},
 	{
 		"title": "Sonata No. 23 F minor (Appassionata), Opus 57",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "2. Movement",
@@ -433,6 +454,7 @@
 	},
 	{
 		"title": "Sonata No. 23 F minor (Appassionata), Opus 57",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "3. Movement",
@@ -445,6 +467,7 @@
 	},
 	{
 		"title": "Sonata No. 26 Eb major (Les Adieux), Opus 81a",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "1. Movement",
@@ -457,6 +480,7 @@
 	},
 	{
 		"title": "Sonata No. 26 Eb major (Les Adieux), Opus 81a",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "2. Movement",
@@ -469,6 +493,7 @@
 	},
 	{
 		"title": "Sonata No. 26 Eb major (Les Adieux), Opus 81a",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "3. Movement",
@@ -481,6 +506,7 @@
 	},
 	{
 		"title": "For Elise",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "For Elise",
@@ -493,6 +519,7 @@
 	},
 	{
 		"title": "Sonata No. 27 E minor, Opus 90",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "1. Movement",
@@ -505,6 +532,7 @@
 	},
 	{
 		"title": "Sonata No. 27 E minor, Opus 90",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "2. Movement",
@@ -517,6 +545,7 @@
 	},
 	{
 		"title": "Sonata No. 29 Bb major (Hammerklavier), Opus 106",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "1. Movement",
@@ -529,6 +558,7 @@
 	},
 	{
 		"title": "Sonata No. 29 Bb major (Hammerklavier), Opus 106",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "2. Movement",
@@ -541,6 +571,7 @@
 	},
 	{
 		"title": "Sonata No. 29 Bb major (Hammerklavier), Opus 106",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "3. Movement",
@@ -553,6 +584,7 @@
 	},
 	{
 		"title": "Sonata No. 29 Bb major (Hammerklavier), Opus 106",
+		"composer": "ルートヴィヒ・ヴァン・ベートーヴェン",
 		"born": "1770",
 		"died": "1827",
 		"opus": "4. Movement",
@@ -868,6 +900,7 @@
 	},
 	{
 		"title": "5 Mazurkas, Opus 7",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 1",
@@ -880,6 +913,7 @@
 	},
 	{
 		"title": "5 Mazurkas, Opus 7",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 2",
@@ -892,6 +926,7 @@
 	},
 	{
 		"title": "Etudes, Opus 10",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 1",
@@ -904,6 +939,7 @@
 	},
 	{
 		"title": "Etudes, Opus 10",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 5 - Black Key",
@@ -916,6 +952,7 @@
 	},
 	{
 		"title": "Etudes, Opus 10",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 12 - Revolutionary",
@@ -928,6 +965,7 @@
 	},
 	{
 		"title": "Grande Valse Brillante, Opus 18",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "Grande Valse Brillante",
@@ -940,6 +978,7 @@
 	},
 	{
 		"title": "Ballade G minor, Opus 23",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "Ballade",
@@ -952,6 +991,7 @@
 	},
 	{
 		"title": "Etudes, Opus 25",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 1 - Harp etude",
@@ -964,6 +1004,7 @@
 	},
 	{
 		"title": "Etudes, Opus 25",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 2",
@@ -976,6 +1017,7 @@
 	},
 	{
 		"title": "Etudes, Opus 25",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 3",
@@ -988,6 +1030,7 @@
 	},
 	{
 		"title": "Etudes, Opus 25",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 4",
@@ -1000,6 +1043,7 @@
 	},
 	{
 		"title": "Etudes, Opus 25",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 11 - Winter Wind",
@@ -1012,6 +1056,7 @@
 	},
 	{
 		"title": "Etudes, Opus 25",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 12",
@@ -1024,6 +1069,7 @@
 	},
 	{
 		"title": "2 Nocturnes, Opus 27",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 1",
@@ -1036,6 +1082,7 @@
 	},
 	{
 		"title": "2 Nocturnes, Opus 27",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 2",
@@ -1048,6 +1095,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 1",
@@ -1060,6 +1108,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 2",
@@ -1072,6 +1121,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 3",
@@ -1084,6 +1134,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 4",
@@ -1096,6 +1147,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 5",
@@ -1108,6 +1160,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 6",
@@ -1120,6 +1173,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 7",
@@ -1132,6 +1186,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 8",
@@ -1144,6 +1199,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 9",
@@ -1156,6 +1212,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 10",
@@ -1168,6 +1225,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 11",
@@ -1180,6 +1238,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 12",
@@ -1192,6 +1251,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 13",
@@ -1204,6 +1264,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 14",
@@ -1216,6 +1277,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 15 - Raindrop",
@@ -1228,6 +1290,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 16",
@@ -1240,6 +1303,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 17",
@@ -1252,6 +1316,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 18",
@@ -1264,6 +1329,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 19",
@@ -1276,6 +1342,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 20",
@@ -1288,6 +1355,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 21",
@@ -1300,6 +1368,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 22",
@@ -1312,6 +1381,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 23",
@@ -1324,6 +1394,7 @@
 	},
 	{
 		"title": "Préludes, Opus 28",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 24",
@@ -1336,6 +1407,7 @@
 	},
 	{
 		"title": "Scherzo Bb minor, Opus 31",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "Scherzo",
@@ -1348,6 +1420,7 @@
 	},
 	{
 		"title": "4 Mazurkas, Opus 33",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 2",
@@ -1360,6 +1433,7 @@
 	},
 	{
 		"title": "4 Mazurkas, Opus 33",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "No. 4",
@@ -1372,6 +1446,7 @@
 	},
 	{
 		"title": "Piano sonata No. 2 Bb minor, Opus 35",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "1. Movement",
@@ -1384,6 +1459,7 @@
 	},
 	{
 		"title": "Piano sonata No. 2 Bb minor, Opus 35",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "2. Movement",
@@ -1396,6 +1472,7 @@
 	},
 	{
 		"title": "Piano sonata No. 2 Bb minor, Opus 35",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "3. Movement",
@@ -1408,6 +1485,7 @@
 	},
 	{
 		"title": "Piano sonata No. 2 Bb minor, Opus 35",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "4. Movement",
@@ -1420,6 +1498,7 @@
 	},
 	{
 		"title": "Polonaise Ab major, Opus 53",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "Polonaise",
@@ -1432,6 +1511,7 @@
 	},
 	{
 		"title": "Fantaisie-Impromptu, Opus 66",
+		"composer": "フレデリック・ショパン",
 		"born": "1810",
 		"died": "1849",
 		"opus": "Fantaisie-Impromptu",
@@ -1648,6 +1728,7 @@
 	},
 	{
 		"title": "Suite bergamasque",
+		"composer": "クロード・ドビュッシー",
 		"born": "1862",
 		"died": "1918",
 		"opus": "Prélude",
@@ -1660,6 +1741,7 @@
 	},
 	{
 		"title": "Suite bergamasque",
+		"composer": "クロード・ドビュッシー",
 		"born": "1862",
 		"died": "1918",
 		"opus": "Menuet",
@@ -1672,6 +1754,7 @@
 	},
 	{
 		"title": "Suite bergamasque",
+		"composer": "クロード・ドビュッシー",
 		"born": "1862",
 		"died": "1918",
 		"opus": "Clair de Lune",
@@ -1684,6 +1767,7 @@
 	},
 	{
 		"title": "Suite bergamasque",
+		"composer": "クロード・ドビュッシー",
 		"born": "1862",
 		"died": "1918",
 		"opus": "Passepied",
@@ -1696,6 +1780,7 @@
 	},
 	{
 		"title": "Children's Corner",
+		"composer": "クロード・ドビュッシー",
 		"born": "1862",
 		"died": "1918",
 		"opus": "I. Doctor Gradus ad Parnassum",
@@ -1708,6 +1793,7 @@
 	},
 	{
 		"title": "Children's Corner",
+		"composer": "クロード・ドビュッシー",
 		"born": "1862",
 		"died": "1918",
 		"opus": "Jimbo's Lullaby",
@@ -1720,6 +1806,7 @@
 	},
 	{
 		"title": "Children's Corner",
+		"composer": "クロード・ドビュッシー",
 		"born": "1862",
 		"died": "1918",
 		"opus": "Serenade of the Doll",
@@ -1732,6 +1819,7 @@
 	},
 	{
 		"title": "Children's Corner",
+		"composer": "クロード・ドビュッシー",
 		"born": "1862",
 		"died": "1918",
 		"opus": "The snow is dancing",
@@ -1744,6 +1832,7 @@
 	},
 	{
 		"title": "Children's Corner",
+		"composer": "クロード・ドビュッシー",
 		"born": "1862",
 		"died": "1918",
 		"opus": "The little Shepherd",
@@ -1756,6 +1845,7 @@
 	},
 	{
 		"title": "Children's Corner",
+		"composer": "クロード・ドビュッシー",
 		"born": "1862",
 		"died": "1918",
 		"opus": "Golli's cake walk",
@@ -1994,6 +2084,7 @@
 	},
 	{
 		"title": "Piano Sonata in C major, Hoboken XVI:7",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "1. Movement",
@@ -2006,6 +2097,7 @@
 	},
 	{
 		"title": "Piano Sonata in C major, Hoboken XVI:7",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "2. Movement",
@@ -2018,6 +2110,7 @@
 	},
 	{
 		"title": "Piano Sonata in C major, Hoboken XVI:7",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "3. Movement",
@@ -2030,6 +2123,7 @@
 	},
 	{
 		"title": "Piano Sonata in G major, Hoboken XVI:8",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "1. Movement",
@@ -2042,6 +2136,7 @@
 	},
 	{
 		"title": "Piano Sonata in G major, Hoboken XVI:8",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "2. Movement",
@@ -2054,6 +2149,7 @@
 	},
 	{
 		"title": "Piano Sonata in G major, Hoboken XVI:8",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "3. Movement",
@@ -2066,6 +2162,7 @@
 	},
 	{
 		"title": "Piano Sonata in G major, Hoboken XVI:8",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "4. Movement",
@@ -2078,6 +2175,7 @@
 	},
 	{
 		"title": "Piano Sonata in F major, Hoboken XVI:9",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "1. Movement",
@@ -2090,6 +2188,7 @@
 	},
 	{
 		"title": "Piano Sonata in F major, Hoboken XVI:9",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "2. Movement",
@@ -2102,6 +2201,7 @@
 	},
 	{
 		"title": "Piano Sonata in F major, Hoboken XVI:9",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "3. Movement",
@@ -2114,6 +2214,7 @@
 	},
 	{
 		"title": "Piano Sonata in D major, Hoboken XVI:33",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "1. Movement",
@@ -2126,6 +2227,7 @@
 	},
 	{
 		"title": "Piano Sonata in D major, Hoboken XVI:33",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "2. Movement",
@@ -2138,6 +2240,7 @@
 	},
 	{
 		"title": "Piano Sonata in D major, Hoboken XVI:33",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "3. Movement",
@@ -2150,6 +2253,7 @@
 	},
 	{
 		"title": "Piano Sonata in C major, Hoboken XVI:35",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "1. Movement",
@@ -2162,6 +2266,7 @@
 	},
 	{
 		"title": "Piano Sonata in C major, Hoboken XVI:35",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "2. Movement",
@@ -2174,6 +2279,7 @@
 	},
 	{
 		"title": "Piano Sonata in C major, Hoboken XVI:35",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "3. Movement",
@@ -2186,6 +2292,7 @@
 	},
 	{
 		"title": "Piano Sonata in G major, Hoboken XVI:40",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "1. Movement",
@@ -2198,6 +2305,7 @@
 	},
 	{
 		"title": "Piano Sonata in G major, Hoboken XVI:40",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "2. Movement",
@@ -2210,6 +2318,7 @@
 	},
 	{
 		"title": "Piano Sonata in Ab major, Hoboken XVI:43",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "1. Movement",
@@ -2222,6 +2331,7 @@
 	},
 	{
 		"title": "Piano Sonata in Ab major, Hoboken XVI:43",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "2. Movement",
@@ -2234,6 +2344,7 @@
 	},
 	{
 		"title": "Piano Sonata in Ab major, Hoboken XVI:43",
+		"composer": "フランツ・ヨーゼフ・ハイドン",
 		"born": "1732",
 		"died": "1809",
 		"opus": "3. Movement",
@@ -2246,6 +2357,7 @@
 	},
 	{
 		"title": "Reminiscences de Don Juan (Fantasia on Mozart's Don Giovanni)",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "Reminiscences de Don Juan",
@@ -2258,6 +2370,7 @@
 	},
 	{
 		"title": "Love dreams",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 3",
@@ -2270,6 +2383,7 @@
 	},
 	{
 		"title": "Grandes Etudes de Paganini",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 1",
@@ -2282,6 +2396,7 @@
 	},
 	{
 		"title": "Grandes Etudes de Paganini",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 2",
@@ -2294,6 +2409,7 @@
 	},
 	{
 		"title": "Grandes Etudes de Paganini",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 3 - La Campanella",
@@ -2306,6 +2422,7 @@
 	},
 	{
 		"title": "Grandes Etudes de Paganini",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 4",
@@ -2318,6 +2435,7 @@
 	},
 	{
 		"title": "Grandes Etudes de Paganini",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 5",
@@ -2330,6 +2448,7 @@
 	},
 	{
 		"title": "Grandes Etudes de Paganini",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 6",
@@ -2342,6 +2461,7 @@
 	},
 	{
 		"title": "Études d'exécution transcendante",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 4 - Mazeppa",
@@ -2354,6 +2474,7 @@
 	},
 	{
 		"title": "Études d'exécution transcendante",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 5 - Feux Follets",
@@ -2366,6 +2487,7 @@
 	},
 	{
 		"title": "Études d'exécution transcendante",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 8 - Wild Hunt",
@@ -2378,6 +2500,7 @@
 	},
 	{
 		"title": "19 Hungarian Rhapsodies",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 2",
@@ -2390,6 +2513,7 @@
 	},
 	{
 		"title": "19 Hungarian Rhapsodies",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 9 - Carnival in Pest",
@@ -2402,6 +2526,7 @@
 	},
 	{
 		"title": "19 Hungarian Rhapsodies",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 10",
@@ -2414,6 +2539,7 @@
 	},
 	{
 		"title": "19 Hungarian Rhapsodies",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 12",
@@ -2426,6 +2552,7 @@
 	},
 	{
 		"title": "19 Hungarian Rhapsodies",
+		"composer": "フランツ・リスト",
 		"born": "1811",
 		"died": "1886",
 		"opus": "No. 15 - Rákóczy March",
@@ -2629,6 +2756,7 @@
 	},
 	{
 		"title": "Sonata No. 8 D major, KV 311",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "1. Movement",
@@ -2641,6 +2769,7 @@
 	},
 	{
 		"title": "Sonata No. 8 D major, KV 311",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "2. Movement",
@@ -2653,6 +2782,7 @@
 	},
 	{
 		"title": "Sonata No. 8 D major, KV 311",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "3. Movement",
@@ -2665,6 +2795,7 @@
 	},
 	{
 		"title": "Sonata No. 10 C major, KV 330",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "1. Movement",
@@ -2677,6 +2808,7 @@
 	},
 	{
 		"title": "Sonata No. 10 C major, KV 330",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "2. Movement",
@@ -2689,6 +2821,7 @@
 	},
 	{
 		"title": "Sonata No. 10 C major, KV 330",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "3. Movement",
@@ -2701,6 +2834,7 @@
 	},
 	{
 		"title": "Sonata No. 11 A major (Alla Turca), KV 331",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "1. Movement",
@@ -2713,6 +2847,7 @@
 	},
 	{
 		"title": "Sonata No. 11 A major (Alla Turca), KV 331",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "2. Movement",
@@ -2725,6 +2860,7 @@
 	},
 	{
 		"title": "Sonata No. 11 A major (Alla Turca), KV 331",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "3. Movement - Alla Turca",
@@ -2737,6 +2873,7 @@
 	},
 	{
 		"title": "Sonata No. 12 F major, KV 332",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "1. Movement",
@@ -2749,6 +2886,7 @@
 	},
 	{
 		"title": "Sonata No. 12 F major, KV 332",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "2. Movement",
@@ -2761,6 +2899,7 @@
 	},
 	{
 		"title": "Sonata No. 12 F major, KV 332",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "3. Movement",
@@ -2773,6 +2912,7 @@
 	},
 	{
 		"title": "Sonata No. 13 Bb major, KV 333",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "1. Movement",
@@ -2785,6 +2925,7 @@
 	},
 	{
 		"title": "Sonata No. 13 Bb major, KV 333",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "2. Movement",
@@ -2797,6 +2938,7 @@
 	},
 	{
 		"title": "Sonata No. 13 Bb major, KV 333",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "3. Movement",
@@ -2809,6 +2951,7 @@
 	},
 	{
 		"title": "Sonata No. 16 C major (Sonata facile), KV 545",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "1. Movement",
@@ -2821,6 +2964,7 @@
 	},
 	{
 		"title": "Sonata No. 16 C major (Sonata facile), KV 545",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "2. Movement",
@@ -2833,6 +2977,7 @@
 	},
 	{
 		"title": "Sonata No. 16 C major (Sonata facile), KV 545",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "3. Movement",
@@ -2845,6 +2990,7 @@
 	},
 	{
 		"title": "Sonata No. 17 Bb major, KV 570",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "1. Movement",
@@ -2857,6 +3003,7 @@
 	},
 	{
 		"title": "Sonata No. 17 Bb major, KV 570",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "2. Movement",
@@ -2869,6 +3016,7 @@
 	},
 	{
 		"title": "Sonata No. 17 Bb major, KV 570",
+		"composer": "ヴォルフガング・アマデウス・モーツァルト",
 		"born": "1756",
 		"died": "1791",
 		"opus": "3. Movement",
@@ -3609,6 +3757,7 @@
 	},
 	{
 		"title": "The Seasons, Opus 37a",
+		"composer": "ピョートル・チャイコフスキー",
 		"born": "1840",
 		"died": "1893",
 		"opus": "January - At the Fireside",
@@ -3621,6 +3770,7 @@
 	},
 	{
 		"title": "The Seasons, Opus 37a",
+		"composer": "ピョートル・チャイコフスキー",
 		"born": "1840",
 		"died": "1893",
 		"opus": "February - Carnival",
@@ -3633,6 +3783,7 @@
 	},
 	{
 		"title": "The Seasons, Opus 37a",
+		"composer": "ピョートル・チャイコフスキー",
 		"born": "1840",
 		"died": "1893",
 		"opus": "March - Song of the Lark",
@@ -3645,6 +3796,7 @@
 	},
 	{
 		"title": "The Seasons, Opus 37a",
+		"composer": "ピョートル・チャイコフスキー",
 		"born": "1840",
 		"died": "1893",
 		"opus": "April - Snowdrop",
@@ -3657,6 +3809,7 @@
 	},
 	{
 		"title": "The Seasons, Opus 37a",
+		"composer": "ピョートル・チャイコフスキー",
 		"born": "1840",
 		"died": "1893",
 		"opus": "May - Starlight Nights",
@@ -3669,6 +3822,7 @@
 	},
 	{
 		"title": "The Seasons, Opus 37a",
+		"composer": "ピョートル・チャイコフスキー",
 		"born": "1840",
 		"died": "1893",
 		"opus": "June - Barcarolle",
@@ -3681,6 +3835,7 @@
 	},
 	{
 		"title": "The Seasons, Opus 37a",
+		"composer": "ピョートル・チャイコフスキー",
 		"born": "1840",
 		"died": "1893",
 		"opus": "July - Song of the Reaper",
@@ -3693,6 +3848,7 @@
 	},
 	{
 		"title": "The Seasons, Opus 37a",
+		"composer": "ピョートル・チャイコフスキー",
 		"born": "1840",
 		"died": "1893",
 		"opus": "August - Harvest",
@@ -3705,6 +3861,7 @@
 	},
 	{
 		"title": "The Seasons, Opus 37a",
+		"composer": "ピョートル・チャイコフスキー",
 		"born": "1840",
 		"died": "1893",
 		"opus": "September - The Hunt",
@@ -3717,6 +3874,7 @@
 	},
 	{
 		"title": "The Seasons, Opus 37a",
+		"composer": "ピョートル・チャイコフスキー",
 		"born": "1840",
 		"died": "1893",
 		"opus": "October - Autumn Song",
@@ -3729,6 +3887,7 @@
 	},
 	{
 		"title": "The Seasons, Opus 37a",
+		"composer": "ピョートル・チャイコフスキー",
 		"born": "1840",
 		"died": "1893",
 		"opus": "November - Troika Ride",
@@ -3741,6 +3900,7 @@
 	},
 	{
 		"title": "The Seasons, Opus 37a",
+		"composer": "ピョートル・チャイコフスキー",
 		"born": "1840",
 		"died": "1893",
 		"opus": "December - Christmas",
