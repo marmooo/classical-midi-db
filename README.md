@@ -53,6 +53,9 @@ following simple rules.
   [CC-BY-4.0](https://github.com/pl-wnifc/humdrum-chopin-first-editions/blob/main/LICENSE.txt)
 - [Public Domain Song Anthology](https://doi.org/10.18130/V3/C4RD06) licensed
   under the [CC0-1.0](https://doi.org/10.18130/V3/C4RD06)
+- [IMSLP MIDI Dataset](https://huggingface.co/datasets/TiMauzi/imslp-midi-cc0-1.0)
+  by TiMauzi is licensed under the
+  [CC0-1.0](https://huggingface.co/datasets/TiMauzi/imslp-midi-cc0-1.0)
 
 ## License
 

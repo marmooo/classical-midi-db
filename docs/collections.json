@@ -97,5 +97,13 @@
 		"maintainer": "David Berger & Chuck Israels",
 		"web": "https://doi.org/10.18130/V3/C4RD06",
 		"license": "CC0-1.0"
+	},
+	{
+		"id": "imslp-midi-cc0-1.0",
+		"name": "IMSLP MIDI Dataset (CC0-1.0)",
+		"status": "OPEN",
+		"maintainer": "TiMauzi",
+		"web": "https://huggingface.co/datasets/TiMauzi/imslp-midi-cc0-1.0",
+		"license": "CC0-1.0"
 	}
 ]

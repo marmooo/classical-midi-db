@@ -110,6 +110,7 @@ function processMidi(buffer) {
 const jsonFiles = [
   "src/piano-midi.de/list.json",
   "src/ClassicalMusicSymposium/list.json",
+  "src/imslp-midi-cc0-1.0/list.json",
 ];
 for (const filePath of jsonFiles) {
   const json = Deno.readTextFileSync(filePath);

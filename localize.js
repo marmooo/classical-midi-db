@@ -17,6 +17,7 @@ function localizeAll() {
   const jsonFiles = [
     "docs/json/piano-midi.de/list.json",
     "docs/json/ClassicalMusicSymposium/list.json",
+    "docs/json/imslp-midi-cc0-1.0/list.json",
   ];
   for (const filePath of jsonFiles) {
     const json = Deno.readTextFileSync(filePath);
@@ -25,10 +26,10 @@ function localizeAll() {
       const composers = loadComposers(langPos);
       db.forEach((info) => {
         const composer = composers.get(info.composer);
+        // Keep composers that are not listed in composer.tsv as-is (their
+        // original language) instead of dropping them.
         if (composer) {
           info.composer = composer;
-        } else {
-          delete info.composer;
         }
       });
       const result = JSON.stringify(db, null, "\t");

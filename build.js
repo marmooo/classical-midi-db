@@ -80,6 +80,7 @@ const collections = getCollections();
 const jsonFiles = [
   "src/piano-midi.de/list.json",
   "src/ClassicalMusicSymposium/list.json",
+  "src/imslp-midi-cc0-1.0/list.json",
 ];
 jsonFiles.forEach((jsonFile) => {
   console.log(jsonFile);
