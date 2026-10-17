@@ -89,5 +89,13 @@
 		"maintainer": "Marcin Konik (Chopin Institute / NIFC)",
 		"web": "https://github.com/pl-wnifc/humdrum-polish-scores",
 		"license": "CC-BY-4.0"
+	},
+	{
+		"id": "PublicDomainSongAnthology",
+		"name": "Public Domain Song Anthology",
+		"status": "OPEN",
+		"maintainer": "David Berger & Chuck Israels",
+		"web": "https://doi.org/10.18130/V3/C4RD06",
+		"license": "CC0-1.0"
 	}
 ]

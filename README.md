@@ -51,6 +51,8 @@ following simple rules.
 - [humdrum-chopin-first-editions](https://github.com/pl-wnifc/humdrum-chopin-first-editions)
   licensed under the
   [CC-BY-4.0](https://github.com/pl-wnifc/humdrum-chopin-first-editions/blob/main/LICENSE.txt)
+- [Public Domain Song Anthology](https://doi.org/10.18130/V3/C4RD06) licensed
+  under the [CC0-1.0](https://doi.org/10.18130/V3/C4RD06)
 
 ## License
 
