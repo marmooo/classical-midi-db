@@ -52,7 +52,7 @@
 	},
 	{
 		"title": "Suite No.5 in C minor",
-		"composer": "Johann Mattheson",
+		"composer": "ヨハン・マテゾン",
 		"born": "1681",
 		"died": "1764",
 		"date": "1714",
@@ -307,7 +307,7 @@
 	},
 	{
 		"title": "Es ist ein Ros entsprungen",
-		"composer": "Michael Praetorius",
+		"composer": "マイケル・プレトリウス",
 		"born": "1571",
 		"died": "1621",
 		"date": "1609",
@@ -1075,7 +1075,7 @@
 	},
 	{
 		"title": "Tribute",
-		"composer": "Anthony Philip Heinrich",
+		"composer": "アンソニー・フィリップ・ハインリヒ",
 		"born": "1781",
 		"died": "1861",
 		"date": "1794",
@@ -1125,7 +1125,7 @@
 	},
 	{
 		"title": "Organ Trio in E-flat major, Krebs-WV 443",
-		"composer": "Johann Ludwig Krebs",
+		"composer": "ヨハン・ルートヴィヒ・クレープス",
 		"born": "1713",
 		"died": "1780",
 		"source": "https://imslp.org/wiki/File:WIMA.7516-Krebs-Trio-Eb-2.mid",
@@ -1308,7 +1308,7 @@
 	},
 	{
 		"title": "Prelude and Fugue in F minor, Krebs-WV 408",
-		"composer": "Johann Ludwig Krebs",
+		"composer": "ヨハン・ルートヴィヒ・クレープス",
 		"born": "1713",
 		"died": "1780",
 		"date": "1740",
@@ -1478,7 +1478,7 @@
 	},
 	{
 		"title": "Toccata and Fugue in A minor, Krebs-WV 411",
-		"composer": "Johann Ludwig Krebs",
+		"composer": "ヨハン・ルートヴィヒ・クレープス",
 		"born": "1713",
 		"died": "1780",
 		"source": "https://imslp.org/wiki/File:WIMA.7224-KREBS,Toccata-Fuga,amoll-b.mid",
@@ -2087,7 +2087,7 @@
 	},
 	{
 		"title": "Exsultate Deo",
-		"composer": "Hans Leo Hassler",
+		"composer": "ハンス・レオ・ハスラー",
 		"born": "1564",
 		"died": "1612",
 		"date": "1601",
@@ -2111,7 +2111,7 @@
 	},
 	{
 		"title": "Fünff-stimmigte blasende Music, No.44",
-		"composer": "Johann Christoph Pezel",
+		"composer": "ヨハン・クリストフ・ペツェル",
 		"born": "1639",
 		"died": "1694",
 		"source": "https://imslp.org/wiki/File:WIMA.ff42-PezR44Sco.mid",
@@ -2161,7 +2161,7 @@
 	},
 	{
 		"title": "Neue Teutsche Gesang",
-		"composer": "Hans Leo Hassler",
+		"composer": "ハンス・レオ・ハスラー",
 		"born": "1564",
 		"died": "1612",
 		"date": "1596",
@@ -3084,7 +3084,7 @@
 	},
 	{
 		"title": "Suite No.8",
-		"composer": "Johann Hermann Schein",
+		"composer": "ヨハン・ヘルマン・シャイン",
 		"born": "1586",
 		"died": "1630",
 		"date": "1617",
@@ -3235,7 +3235,7 @@
 	},
 	{
 		"title": "Toccata sopra i pedali per l'organo e senza, F 3.05",
-		"composer": "Girolamo Frescobaldi",
+		"composer": "ジロラーモ・フレスコバルディ",
 		"born": "1583",
 		"died": "1643",
 		"date": "1627",
@@ -3414,7 +3414,7 @@
 	},
 	{
 		"title": "Carmen in re",
-		"composer": "Ludwig Senfl",
+		"composer": "ルートヴィヒ・ゼンフル",
 		"born": "1486",
 		"died": "1543",
 		"source": "https://imslp.org/wiki/File:WIMA.1811-SCaSco.mid",
@@ -3985,7 +3985,7 @@
 	},
 	{
 		"title": "Canzona in G minor",
-		"composer": "Hans Leo Hassler",
+		"composer": "ハンス・レオ・ハスラー",
 		"born": "1564",
 		"died": "1612",
 		"source": "https://imslp.org/wiki/File:PMLP367077-Hassler_Canzon_Gmin.mid",
@@ -6696,7 +6696,7 @@
 	},
 	{
 		"title": "Canzoni da suonare, Op.17",
-		"composer": "Tarquinio Merula",
+		"composer": "タルキニオ・メルラ",
 		"born": "1595",
 		"died": "1665",
 		"date": "1651",
@@ -7331,7 +7331,7 @@
 	},
 	{
 		"title": "Musae Sioniae, Theil 6",
-		"composer": "Michael Praetorius",
+		"composer": "マイケル・プレトリウス",
 		"born": "1571",
 		"died": "1621",
 		"date": "1568",
@@ -8252,7 +8252,7 @@
 	},
 	{
 		"title": "Miserere in A minor",
-		"composer": "Antonio Caldara",
+		"composer": "アントニオ・カルダラ",
 		"born": "1670",
 		"died": "1736",
 		"source": "https://imslp.org/wiki/File:PMLP144509-Caldara_Miserere_mei_Domine.mid",
@@ -8421,7 +8421,7 @@
 	},
 	{
 		"title": "Suite No.14",
-		"composer": "Johann Hermann Schein",
+		"composer": "ヨハン・ヘルマン・シャイン",
 		"born": "1586",
 		"died": "1630",
 		"date": "1617",
@@ -8471,7 +8471,7 @@
 	},
 	{
 		"title": "Funeral Anthem",
-		"composer": "Anthony Philip Heinrich",
+		"composer": "アンソニー・フィリップ・ハインリヒ",
 		"born": "1781",
 		"died": "1861",
 		"date": "1807",
@@ -8954,7 +8954,7 @@
 	},
 	{
 		"title": "The Log House",
-		"composer": "Anthony Philip Heinrich",
+		"composer": "アンソニー・フィリップ・ハインリヒ",
 		"born": "1781",
 		"died": "1861",
 		"date": "1826",
@@ -9651,7 +9651,7 @@
 	},
 	{
 		"title": "Fantasia in D major, LV 63",
-		"composer": "Friedrich Wilhelm Zachow",
+		"composer": "フリードリヒ・ヴィルヘルム・ツァホウ",
 		"born": "1663",
 		"died": "1712",
 		"source": "https://imslp.org/wiki/File:PMLP144045-Zachow_Fantasia_D_organ.mid",
@@ -10115,7 +10115,7 @@
 	},
 	{
 		"title": "Violin Sonata in D minor, T.So 26",
-		"composer": "Tomaso Albinoni",
+		"composer": "トマーゾ・アルビノーニ",
 		"born": "1671",
 		"died": "1751",
 		"date": "1708",
@@ -11955,7 +11955,7 @@
 	},
 	{
 		"title": "Trio sopra 'Mein Gott, das Herze bring ich dir', Krebs-WV 538",
-		"composer": "Johann Ludwig Krebs",
+		"composer": "ヨハン・ルートヴィヒ・クレープス",
 		"born": "1713",
 		"died": "1780",
 		"source": "https://imslp.org/wiki/File:WIMA.4d78-KREBS,MeinGott.mid",
@@ -12615,7 +12615,7 @@
 	},
 	{
 		"title": "Ave Virgo gloriosa, F 11.31",
-		"composer": "Girolamo Frescobaldi",
+		"composer": "ジロラーモ・フレスコバルディ",
 		"born": "1583",
 		"died": "1643",
 		"date": "1627",

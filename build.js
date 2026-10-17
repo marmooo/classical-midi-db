@@ -27,6 +27,10 @@ function filterCopyright(data) {
       if (died <= thresholdYear) return true;
     }
     if (!born && !died) return true;
+    // born known but died unknown ("1850-?"): they did not live to 100, so
+    // death is at most born+100. Keep only if even that upper bound confirms
+    // the copyright has expired.
+    if (born && !died) return born + 100 <= thresholdYear;
     return false;
   });
 }
@@ -81,6 +85,7 @@ const jsonFiles = [
   "src/piano-midi.de/list.json",
   "src/ClassicalMusicSymposium/list.json",
   "src/imslp-midi-cc0-1.0/list.json",
+  "src/imslp-midi-by-sa/list.json",
 ];
 jsonFiles.forEach((jsonFile) => {
   console.log(jsonFile);

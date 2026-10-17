@@ -105,5 +105,13 @@
 		"maintainer": "TiMauzi",
 		"web": "https://huggingface.co/datasets/TiMauzi/imslp-midi-cc0-1.0",
 		"license": "CC0-1.0"
+	},
+	{
+		"id": "imslp-midi-by-sa",
+		"name": "IMSLP MIDI Dataset (CC-BY-SA-4.0)",
+		"status": "OPEN",
+		"maintainer": "TiMauzi",
+		"web": "https://huggingface.co/datasets/TiMauzi/imslp-midi-by-sa",
+		"license": "CC-BY-SA-4.0"
 	}
 ]

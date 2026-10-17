@@ -18,6 +18,7 @@ function localizeAll() {
     "docs/json/piano-midi.de/list.json",
     "docs/json/ClassicalMusicSymposium/list.json",
     "docs/json/imslp-midi-cc0-1.0/list.json",
+    "docs/json/imslp-midi-by-sa/list.json",
   ];
   for (const filePath of jsonFiles) {
     const json = Deno.readTextFileSync(filePath);

@@ -1,3 +1,6 @@
 [submodule "vendor/imslp-midi-cc0-1.0"]
 	path = vendor/imslp-midi-cc0-1.0
 	url = https://huggingface.co/datasets/TiMauzi/imslp-midi-cc0-1.0
+[submodule "vendor/imslp-midi-by-sa"]
+	path = vendor/imslp-midi-by-sa
+	url = https://huggingface.co/datasets/TiMauzi/imslp-midi-by-sa
